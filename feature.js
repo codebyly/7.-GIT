@@ -1,6 +1,10 @@
 function feature() {
   console.log("wow");
 }
-functuin feature2() {
-    console.log("cool");
+function feature2() {
+  console.log("cool");
+}
+
+function featur3() {
+  console.log("cool");
 }
