@@ -7,5 +7,5 @@ function three() {
 }
 
 function gitHub() {
-  console.log("GitHub online");
+  console.log("GitHub Online");
 }
