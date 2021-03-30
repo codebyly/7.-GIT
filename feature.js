@@ -9,3 +9,7 @@ function feature2() {
 function feature3() {
   console.log("cool");
 }
+
+function feature4() {
+  console.log("waht ever");
+}
